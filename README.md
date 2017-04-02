@@ -14,4 +14,4 @@ Com o tempo, percebi que:
 
 Esse projeto foi feito como hobby, apenas por curiosidade em relação a alguns tópicos de IA, enquanto eu ainda estava no técnico (lá por meados de 2014).
 
-Meu objetivo no futuro é passar esse projeto (Principalmente o motor de física baseado em vetores) para Javascript, usando o Canvas do HTML5, já que o Pygame não é uma das bibliotecas mais portáteis. ;P
+Meu objetivo no futuro é passar esse projeto (Principalmente o motor de física baseado em vetores) para Javascript, usando o Canvas do HTML5, já que o Pygame não é uma das bibliotecas mais portáteis.
